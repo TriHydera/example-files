@@ -1,1 +1,3 @@
-# example-files
+# Example Files
+
+Example json and text files
