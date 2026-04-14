@@ -12,7 +12,7 @@
     "files": {
         "zip": {
             "name": "{id}-{ver}.{tag}",
-            "url": "{host}/{id}-{ver}.{tag}",
+            "url": "https://dl.site.com/{id}-{ver}.{tag}",
             "hash": "2f961c3ddf9aff0bac21369fabbdd9cb12633826",
             "size": "1KB",
             "size_raw": "1000"
