@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "id": "my-package-2",
+        "name": "My Package 2",
+        "description": "My package description",
+        "ver": "1.0",
+        "tags": [
+            "file-zip",
+            "cat-web"
+        ]
+    },
+    "files": {
+        "zip": {
+            "name": "{id}-{ver}.{tag}",
+            "url": "{host}/{id}-{ver}.{tag}",
+            "hash": "2f961c3ddf9aff0bac21369fabbdd9cb12633826",
+            "size": "1KB",
+            "size_raw": "1000"
+        }
+    }
+}
